@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Pure Mathematics 1 Interactive Whiteboard",
+  "description": "Interactive Whiteboard & Teaching Web Application for Cambridge International AS & A Level Mathematics: Pure Mathematics 1 (9709)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
